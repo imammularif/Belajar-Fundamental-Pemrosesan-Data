@@ -6,5 +6,8 @@ Proyek ini membuat ETL (Extract, Transform, Load) pipeline sederhana untuk mempr
 
 Teknologi
 Python & Pandas – manipulasi data
-SQLite / Excel spreadsheet – database sederhana
+SQLite / Excel spreadsheet & Google Cloud API – penyimpanan data sederhana
 Jupyter Notebook / VSCode – dokumentasi & testing
+
+
+
