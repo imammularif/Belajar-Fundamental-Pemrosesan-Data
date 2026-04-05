@@ -1,0 +1,868 @@
+Title,Price,Rating,Colors,Size,Gender
+Zara Jeans Series 1,1632000.0,3.5,6,XXL,Women
+Nike Hoodie Series 2,976000.0,4.8,5,XXL,Men
+Adidas Jeans Series 3,2208000.0,4.7,5,S,Unisex
+Zara Hoodie Series 4,2304000.0,4.3,1,XXL,Unisex
+Uniqlo Jeans Series 5,2336000.0,3.5,3,XXL,Men
+H&M Sweater Series 6,1488000.0,4.7,7,L,Women
+Nike Skirt Series 7,1584000.0,3.6,5,XXL,Men
+Nike Dress Series 8,1456000.0,4.1,5,M,Men
+Zara Dress Series 9,2336000.0,3.7,2,XXL,Men
+Uniqlo Jeans Series 10,336000.0,4.9,4,XL,Women
+Adidas Jeans Series 11,1456000.0,3.6,2,L,Men
+Nike Jacket Series 12,1264000.0,4.0,7,XXL,Men
+Cotton On Hoodie Series 13,2320000.0,3.9,2,S,Men
+Adidas Skirt Series 14,1840000.0,4.4,5,M,Men
+Cotton On Sweater Series 15,2016000.0,4.9,5,S,Men
+Nike Shorts Series 16,304000.0,4.3,5,S,Unisex
+Adidas Hoodie Series 17,1584000.0,4.6,1,XXL,Women
+Cotton On Sweater Series 18,1552000.0,4.6,1,L,Women
+Nike Jacket Series 19,1472000.0,4.5,4,L,Unisex
+Cotton On Jeans Series 20,2112000.0,3.5,4,XL,Unisex
+Adidas Dress Series 21,608000.0,4.2,7,XXL,Unisex
+Puma T-Shirt Series 22,288000.0,3.5,2,XXL,Men
+Zara Shorts Series 23,608000.0,4.8,6,XXL,Men
+Adidas Skirt Series 24,1104000.0,3.6,2,M,Men
+Nike T-Shirt Series 25,960000.0,3.8,2,L,Women
+Nike Sweater Series 26,1552000.0,4.1,8,L,Women
+Puma Dress Series 27,2288000.0,3.8,7,XXL,Unisex
+Uniqlo Skirt Series 28,1040000.0,4.8,6,XL,Men
+Cotton On T-Shirt Series 29,1216000.0,4.2,6,S,Men
+Zara Sweater Series 30,1040000.0,3.6,5,XXL,Unisex
+Nike Dress Series 31,592000.0,4.8,8,L,Women
+Cotton On Shorts Series 32,656000.0,4.8,3,L,Men
+Puma Shorts Series 33,2272000.0,3.6,4,L,Women
+Zara T-Shirt Series 34,1712000.0,4.2,4,L,Women
+Adidas T-Shirt Series 35,2336000.0,4.5,8,L,Unisex
+H&M Skirt Series 36,2144000.0,4.1,8,M,Unisex
+Zara T-Shirt Series 37,2272000.0,3.8,5,XL,Unisex
+Zara Hoodie Series 38,912000.0,3.5,5,M,Unisex
+Zara Shorts Series 39,1472000.0,4.0,4,L,Unisex
+Uniqlo T-Shirt Series 40,736000.0,3.9,7,XL,Men
+Uniqlo T-Shirt Series 41,1152000.0,4.0,8,XL,Unisex
+H&M Shorts Series 42,1456000.0,3.8,5,XL,Men
+Zara Skirt Series 43,1264000.0,4.2,3,L,Men
+Cotton On Hoodie Series 44,1696000.0,4.6,1,S,Unisex
+Uniqlo Sweater Series 45,464000.0,4.2,6,S,Women
+Nike Skirt Series 46,384000.0,4.5,1,XXL,Unisex
+Uniqlo Hoodie Series 47,2272000.0,4.8,7,M,Women
+Puma T-Shirt Series 48,560000.0,4.2,3,XXL,Unisex
+Puma Jeans Series 49,1104000.0,4.6,1,XL,Women
+Adidas Jeans Series 50,1728000.0,3.7,8,S,Unisex
+Puma Jeans Series 51,384000.0,3.6,4,M,Women
+H&M Skirt Series 52,1488000.0,4.4,3,M,Unisex
+H&M Sweater Series 53,992000.0,3.5,5,M,Unisex
+Zara Dress Series 54,2064000.0,4.7,7,XXL,Unisex
+Uniqlo Dress Series 55,2048000.0,4.3,6,M,Women
+Adidas Dress Series 56,928000.0,3.5,1,XXL,Men
+H&M Hoodie Series 57,2144000.0,3.8,5,S,Men
+Cotton On Skirt Series 58,912000.0,4.4,3,XXL,Women
+Uniqlo Hoodie Series 59,2208000.0,4.4,1,XXL,Unisex
+Cotton On Skirt Series 60,1568000.0,4.2,1,XXL,Men
+Uniqlo Jeans Series 61,1264000.0,4.5,3,M,Unisex
+Adidas Jeans Series 62,496000.0,4.0,3,XXL,Men
+Cotton On Shorts Series 63,1808000.0,4.3,2,M,Women
+Zara Hoodie Series 64,2176000.0,4.2,8,XXL,Women
+Zara Jeans Series 65,2256000.0,4.7,7,S,Men
+H&M Jeans Series 66,1168000.0,3.9,3,M,Men
+Cotton On Dress Series 67,2096000.0,4.2,4,S,Women
+Adidas Hoodie Series 68,1552000.0,5.0,6,L,Men
+H&M Hoodie Series 69,512000.0,4.9,2,S,Women
+Cotton On Dress Series 70,960000.0,4.5,2,XL,Women
+Uniqlo Shorts Series 71,2352000.0,4.0,7,S,Unisex
+Zara T-Shirt Series 72,880000.0,5.0,5,S,Women
+Cotton On Skirt Series 73,2208000.0,3.5,6,S,Women
+H&M Dress Series 74,688000.0,4.6,5,S,Men
+Puma Hoodie Series 75,960000.0,4.1,6,XL,Women
+Puma T-Shirt Series 76,1136000.0,3.9,1,XXL,Women
+Zara Dress Series 77,736000.0,5.0,7,XXL,Unisex
+Adidas Jeans Series 78,1680000.0,3.7,5,S,Unisex
+Cotton On Hoodie Series 79,2096000.0,4.3,3,XL,Men
+Nike Shorts Series 80,416000.0,4.7,1,M,Women
+Adidas Hoodie Series 81,560000.0,4.9,1,XL,Unisex
+Adidas Hoodie Series 82,704000.0,3.8,2,L,Men
+Zara T-Shirt Series 83,1696000.0,4.8,2,S,Men
+Zara Dress Series 84,1216000.0,4.3,6,XL,Men
+Adidas Jacket Series 85,1520000.0,4.3,7,M,Men
+Uniqlo Sweater Series 86,400000.0,4.2,7,L,Unisex
+Nike T-Shirt Series 87,2208000.0,4.7,1,XL,Unisex
+Puma Dress Series 88,2208000.0,3.7,5,L,Unisex
+Puma Shorts Series 89,352000.0,4.3,3,XL,Women
+Adidas Hoodie Series 90,1600000.0,3.5,7,XXL,Unisex
+Nike Jacket Series 91,240000.0,4.6,5,L,Men
+Puma Dress Series 92,1424000.0,4.7,6,S,Unisex
+Zara Jacket Series 93,848000.0,4.2,2,XL,Women
+Zara Jeans Series 94,2256000.0,4.3,4,S,Women
+Cotton On Shorts Series 95,1104000.0,3.7,4,L,Men
+Nike Dress Series 96,1952000.0,4.5,5,XL,Men
+Cotton On Dress Series 97,1632000.0,4.7,7,L,Unisex
+Adidas Skirt Series 98,1168000.0,3.8,8,XL,Men
+Adidas Jeans Series 99,1168000.0,4.0,8,M,Women
+Puma Shorts Series 100,1664000.0,4.0,2,S,Unisex
+Nike Sweater Series 101,2272000.0,4.3,2,M,Men
+Zara Dress Series 102,1968000.0,4.7,2,XXL,Women
+Zara Skirt Series 103,2224000.0,4.5,5,XXL,Unisex
+Zara Skirt Series 104,1984000.0,4.8,1,XL,Unisex
+H&M Dress Series 105,576000.0,4.1,7,S,Men
+Zara Skirt Series 106,2144000.0,3.7,1,L,Women
+H&M Hoodie Series 107,1200000.0,4.2,8,S,Unisex
+Cotton On Jeans Series 108,1824000.0,4.5,8,XL,Women
+Uniqlo T-Shirt Series 109,1168000.0,4.9,8,XL,Women
+Cotton On Dress Series 110,2384000.0,4.2,8,S,Men
+Zara Sweater Series 111,1552000.0,4.1,7,M,Unisex
+Adidas Jacket Series 112,1824000.0,4.4,7,S,Unisex
+Cotton On Skirt Series 113,512000.0,4.1,5,XXL,Men
+Puma Hoodie Series 114,1744000.0,4.3,6,XXL,Women
+Nike Hoodie Series 115,2080000.0,4.4,8,L,Women
+Nike T-Shirt Series 116,688000.0,3.7,8,L,Men
+Zara Jacket Series 117,1248000.0,5.0,8,XXL,Women
+Uniqlo Jeans Series 118,496000.0,4.2,1,M,Unisex
+Nike T-Shirt Series 119,304000.0,4.9,1,XXL,Women
+Puma Skirt Series 120,1136000.0,4.7,4,M,Men
+Uniqlo Jacket Series 121,1776000.0,3.7,5,M,Unisex
+Zara Dress Series 122,2160000.0,3.9,7,L,Unisex
+Cotton On Jacket Series 123,288000.0,4.6,3,S,Women
+Nike Jacket Series 124,592000.0,4.6,5,XL,Women
+Nike T-Shirt Series 125,1344000.0,3.5,6,XXL,Women
+Adidas T-Shirt Series 126,2176000.0,4.9,8,XL,Women
+Puma Sweater Series 127,720000.0,4.2,5,XXL,Women
+Puma T-Shirt Series 128,416000.0,3.6,5,M,Men
+Nike Skirt Series 129,608000.0,4.2,7,XL,Men
+Adidas Sweater Series 130,976000.0,4.3,5,XL,Women
+Nike Dress Series 131,1536000.0,3.8,2,S,Women
+Uniqlo Jeans Series 132,288000.0,4.2,4,S,Men
+Adidas Jacket Series 133,592000.0,4.0,8,M,Unisex
+Uniqlo Shorts Series 134,320000.0,4.3,1,S,Women
+Cotton On Jacket Series 135,512000.0,3.9,1,XXL,Unisex
+Puma Jeans Series 136,1168000.0,3.6,4,M,Unisex
+Nike Jeans Series 137,1104000.0,3.6,6,M,Unisex
+Cotton On Sweater Series 138,1680000.0,4.5,1,L,Women
+H&M Jacket Series 139,1856000.0,4.6,5,L,Unisex
+Uniqlo Dress Series 140,1072000.0,4.4,8,XXL,Unisex
+Zara Hoodie Series 141,2032000.0,4.7,6,S,Men
+Uniqlo Jacket Series 142,1968000.0,4.2,3,XXL,Men
+Zara Sweater Series 143,464000.0,4.8,4,M,Men
+Puma Skirt Series 144,1040000.0,3.6,8,XXL,Women
+Cotton On Jeans Series 145,1104000.0,3.7,7,L,Men
+Zara Sweater Series 146,240000.0,4.1,8,S,Women
+Nike Jeans Series 147,1648000.0,4.8,7,M,Men
+H&M Shorts Series 148,1120000.0,4.0,2,XL,Men
+Puma Jeans Series 149,1760000.0,3.6,2,M,Women
+Uniqlo Shorts Series 150,1744000.0,3.6,3,L,Women
+Cotton On Skirt Series 151,1424000.0,3.6,3,XL,Unisex
+Nike Skirt Series 152,560000.0,4.9,7,L,Men
+Zara Hoodie Series 153,1600000.0,3.6,3,XXL,Unisex
+Uniqlo Dress Series 154,320000.0,3.5,3,XL,Unisex
+Uniqlo T-Shirt Series 155,1712000.0,3.7,4,XXL,Men
+Cotton On Hoodie Series 156,2384000.0,4.1,3,L,Unisex
+Adidas Jacket Series 157,960000.0,4.8,5,XL,Men
+H&M Jacket Series 158,1248000.0,3.6,7,L,Men
+H&M T-Shirt Series 159,2096000.0,5.0,7,XL,Unisex
+Zara Hoodie Series 160,736000.0,3.6,2,XL,Unisex
+Puma Dress Series 161,1984000.0,4.2,1,M,Unisex
+Uniqlo Sweater Series 162,608000.0,4.6,7,L,Men
+Nike Skirt Series 163,1472000.0,4.0,5,M,Men
+Uniqlo Hoodie Series 164,2272000.0,3.6,3,M,Unisex
+Cotton On Jeans Series 165,2240000.0,5.0,8,L,Unisex
+H&M Jeans Series 166,1920000.0,3.8,6,L,Men
+Zara Sweater Series 167,1504000.0,3.8,7,L,Women
+Uniqlo Jacket Series 168,1648000.0,4.2,3,XL,Men
+Nike T-Shirt Series 169,1024000.0,3.7,4,M,Men
+Puma Jeans Series 170,2064000.0,4.6,2,XL,Unisex
+Nike Hoodie Series 171,544000.0,4.2,7,M,Unisex
+Uniqlo Sweater Series 172,1648000.0,4.1,7,XL,Women
+Nike Sweater Series 173,1872000.0,3.9,1,XXL,Unisex
+Uniqlo T-Shirt Series 174,784000.0,3.7,3,S,Men
+Zara T-Shirt Series 175,1760000.0,4.2,6,XXL,Women
+Cotton On Shorts Series 176,1920000.0,4.6,5,XL,Unisex
+Cotton On Hoodie Series 177,2032000.0,3.8,4,M,Women
+Nike Jeans Series 178,1680000.0,4.4,1,M,Women
+H&M Jacket Series 179,2368000.0,4.2,2,S,Unisex
+H&M Jeans Series 180,1392000.0,4.9,2,S,Men
+Zara Shorts Series 181,560000.0,4.8,4,XXL,Unisex
+H&M Hoodie Series 182,2336000.0,4.9,2,S,Unisex
+Adidas Hoodie Series 183,720000.0,4.2,5,L,Unisex
+Zara Jeans Series 184,1136000.0,5.0,8,XL,Women
+H&M Dress Series 185,1056000.0,4.4,1,XL,Women
+Puma Hoodie Series 186,688000.0,5.0,7,XL,Unisex
+Nike T-Shirt Series 187,928000.0,3.6,5,XXL,Women
+Uniqlo Hoodie Series 188,1424000.0,4.8,4,L,Unisex
+H&M Shorts Series 189,416000.0,4.5,7,M,Unisex
+Uniqlo Sweater Series 190,1584000.0,4.7,6,XXL,Women
+Puma T-Shirt Series 191,448000.0,4.7,6,XL,Men
+Puma Jeans Series 192,1968000.0,4.8,1,XXL,Unisex
+Cotton On Skirt Series 193,720000.0,4.9,8,L,Unisex
+Zara Shorts Series 194,1936000.0,4.7,1,S,Women
+H&M Jacket Series 195,1776000.0,4.4,7,XL,Men
+Puma Hoodie Series 196,464000.0,3.8,4,M,Unisex
+Uniqlo T-Shirt Series 197,912000.0,4.5,1,M,Women
+H&M Skirt Series 198,816000.0,4.9,2,L,Men
+Uniqlo Dress Series 199,288000.0,4.7,8,L,Unisex
+Nike Shorts Series 200,1248000.0,4.4,7,L,Women
+Zara Dress Series 201,800000.0,4.1,2,M,Women
+H&M Dress Series 202,2064000.0,4.3,7,M,Men
+Uniqlo Jeans Series 203,960000.0,4.4,3,M,Men
+Uniqlo Hoodie Series 204,2016000.0,4.5,1,M,Unisex
+Adidas Jeans Series 205,2240000.0,4.2,2,XXL,Unisex
+Zara Skirt Series 206,864000.0,4.6,5,L,Women
+Puma Jeans Series 207,400000.0,4.1,4,L,Men
+Puma Dress Series 208,944000.0,3.9,7,M,Women
+Adidas Dress Series 209,2128000.0,4.2,5,S,Men
+Nike Skirt Series 210,496000.0,4.4,2,XL,Unisex
+Puma Jacket Series 211,1312000.0,3.7,6,M,Women
+Nike Dress Series 212,2160000.0,4.6,1,M,Men
+Zara Skirt Series 213,336000.0,3.7,5,M,Men
+Uniqlo Jeans Series 214,944000.0,3.8,2,S,Unisex
+Adidas Shorts Series 215,2240000.0,3.5,2,XL,Women
+Adidas Dress Series 216,1760000.0,4.4,1,L,Men
+Nike Shorts Series 217,432000.0,4.6,5,XL,Unisex
+Puma Hoodie Series 218,352000.0,4.5,8,XL,Women
+Cotton On T-Shirt Series 219,1296000.0,4.9,6,L,Men
+Nike Dress Series 220,1008000.0,4.0,4,M,Men
+Nike Jacket Series 221,1216000.0,3.7,8,S,Women
+Adidas T-Shirt Series 222,1968000.0,4.6,7,XL,Women
+Uniqlo Jeans Series 223,2000000.0,4.9,8,XXL,Men
+H&M T-Shirt Series 224,656000.0,4.8,5,S,Women
+Uniqlo Jacket Series 225,1520000.0,4.7,5,S,Unisex
+Nike T-Shirt Series 226,1696000.0,3.7,6,XXL,Women
+H&M Jacket Series 227,2016000.0,3.6,2,M,Men
+Uniqlo Jacket Series 228,1664000.0,3.7,5,XL,Unisex
+Adidas T-Shirt Series 229,2144000.0,4.0,1,L,Women
+Adidas Jeans Series 230,400000.0,4.6,8,M,Men
+Zara Jeans Series 231,1232000.0,3.5,2,XXL,Unisex
+Nike Dress Series 232,928000.0,4.1,6,XL,Men
+Cotton On T-Shirt Series 233,512000.0,4.3,1,L,Men
+Uniqlo T-Shirt Series 234,1088000.0,4.3,7,M,Men
+Nike Hoodie Series 235,1088000.0,4.7,3,L,Men
+Adidas Jeans Series 236,1440000.0,3.9,1,S,Women
+Adidas Skirt Series 237,656000.0,4.4,5,XL,Men
+Adidas T-Shirt Series 238,1568000.0,4.0,5,S,Women
+Adidas Sweater Series 239,256000.0,4.0,6,L,Women
+Uniqlo Hoodie Series 240,896000.0,4.8,8,M,Unisex
+Cotton On Jacket Series 241,2384000.0,4.1,1,S,Women
+Zara Hoodie Series 242,1104000.0,4.4,7,L,Women
+Nike Sweater Series 243,1824000.0,4.0,4,XL,Men
+H&M Jeans Series 244,1696000.0,5.0,1,XXL,Women
+Cotton On Jacket Series 245,640000.0,4.8,6,M,Unisex
+Adidas Sweater Series 246,2384000.0,3.7,5,XL,Men
+Zara Hoodie Series 247,832000.0,4.3,5,XL,Men
+Cotton On Dress Series 248,800000.0,4.0,7,L,Men
+Nike Skirt Series 249,656000.0,3.6,4,L,Women
+Puma Skirt Series 250,528000.0,4.4,3,XL,Unisex
+Adidas Skirt Series 251,1776000.0,3.9,8,S,Unisex
+Uniqlo Sweater Series 252,1664000.0,3.6,4,L,Men
+Puma Jacket Series 253,512000.0,3.6,4,XXL,Men
+H&M Shorts Series 254,2048000.0,3.8,2,L,Men
+Zara Skirt Series 255,1856000.0,4.1,5,XL,Women
+H&M T-Shirt Series 256,1664000.0,3.9,6,M,Unisex
+Puma Jacket Series 257,304000.0,4.5,7,S,Women
+H&M Skirt Series 258,1680000.0,4.1,5,XL,Women
+Zara Shorts Series 259,400000.0,4.6,1,L,Women
+Uniqlo Dress Series 260,1312000.0,3.8,7,M,Men
+H&M Sweater Series 261,2304000.0,4.4,3,XL,Unisex
+Uniqlo Dress Series 262,1568000.0,4.5,2,M,Women
+H&M Jacket Series 263,1088000.0,4.0,2,L,Unisex
+Uniqlo T-Shirt Series 264,1360000.0,4.5,7,S,Unisex
+Cotton On Hoodie Series 265,1984000.0,4.2,7,XL,Women
+Cotton On Dress Series 266,1120000.0,4.8,2,M,Men
+Adidas T-Shirt Series 267,400000.0,4.5,8,L,Men
+Puma Hoodie Series 268,1248000.0,4.3,4,S,Women
+Zara Dress Series 269,288000.0,3.9,4,S,Men
+Zara Jacket Series 270,1984000.0,3.5,2,M,Unisex
+Puma Sweater Series 271,624000.0,4.0,8,XL,Women
+Puma Hoodie Series 272,784000.0,4.5,8,M,Women
+Cotton On T-Shirt Series 273,800000.0,3.6,6,M,Women
+Cotton On Shorts Series 274,2224000.0,3.9,1,XXL,Men
+Cotton On Jacket Series 275,1872000.0,4.6,5,M,Women
+H&M Sweater Series 276,976000.0,4.9,1,M,Unisex
+Nike T-Shirt Series 277,1728000.0,4.7,4,M,Women
+Puma Dress Series 278,1200000.0,4.6,4,S,Unisex
+Cotton On Sweater Series 279,1856000.0,4.4,6,XXL,Men
+Cotton On Shorts Series 280,608000.0,4.3,6,XL,Men
+Adidas T-Shirt Series 281,1568000.0,4.0,6,XXL,Men
+Adidas Skirt Series 282,1488000.0,4.9,4,M,Men
+H&M Jeans Series 283,912000.0,4.0,7,L,Men
+Nike Dress Series 284,1872000.0,4.8,5,S,Women
+Adidas T-Shirt Series 285,896000.0,5.0,4,XL,Women
+Puma Hoodie Series 286,2368000.0,4.2,4,S,Men
+Uniqlo Hoodie Series 287,800000.0,4.8,7,M,Men
+Puma Hoodie Series 288,768000.0,3.6,2,L,Women
+Zara Shorts Series 289,784000.0,4.9,6,XXL,Women
+H&M Sweater Series 290,896000.0,4.7,2,S,Unisex
+Adidas Hoodie Series 291,688000.0,3.9,8,XL,Men
+Zara Jacket Series 292,736000.0,4.0,6,S,Unisex
+Uniqlo Jeans Series 293,304000.0,4.1,2,XXL,Men
+Nike Hoodie Series 294,272000.0,4.2,4,S,Men
+Cotton On Sweater Series 295,256000.0,4.2,2,M,Men
+Puma Skirt Series 296,896000.0,4.5,1,XL,Unisex
+H&M Dress Series 297,1088000.0,4.2,7,L,Men
+Cotton On Jeans Series 298,768000.0,4.3,5,XXL,Unisex
+Uniqlo T-Shirt Series 299,240000.0,3.6,1,S,Men
+Nike Skirt Series 300,2048000.0,3.7,5,M,Men
+Uniqlo Shorts Series 301,1600000.0,3.6,1,M,Unisex
+H&M T-Shirt Series 302,320000.0,4.3,6,L,Women
+H&M Dress Series 303,864000.0,4.4,8,M,Unisex
+Zara Jeans Series 304,1840000.0,3.8,7,M,Men
+Nike Jeans Series 305,592000.0,4.8,6,XXL,Men
+Adidas Jeans Series 306,640000.0,4.3,5,S,Men
+Nike Hoodie Series 307,1728000.0,4.9,3,XL,Unisex
+Cotton On Jacket Series 308,2400000.0,3.9,2,M,Men
+Uniqlo Shorts Series 309,1296000.0,3.6,6,XXL,Unisex
+Zara Dress Series 310,2160000.0,4.7,4,XL,Women
+Uniqlo Shorts Series 311,848000.0,3.9,1,XXL,Unisex
+Zara Jeans Series 312,1712000.0,4.0,2,S,Unisex
+Puma Skirt Series 313,368000.0,4.8,7,L,Men
+H&M Shorts Series 314,1248000.0,3.7,8,M,Women
+Puma Sweater Series 315,1456000.0,4.7,6,XL,Women
+Nike Jeans Series 316,2096000.0,4.2,8,L,Women
+H&M Jacket Series 317,368000.0,3.6,2,S,Unisex
+Cotton On T-Shirt Series 318,2256000.0,3.7,2,M,Unisex
+H&M T-Shirt Series 319,2176000.0,4.7,2,XL,Men
+H&M Skirt Series 320,288000.0,3.9,4,L,Unisex
+Nike Shorts Series 321,1888000.0,4.3,5,L,Men
+Adidas Sweater Series 322,1152000.0,5.0,6,XL,Unisex
+Zara Sweater Series 323,944000.0,4.9,6,XL,Women
+Cotton On T-Shirt Series 324,1488000.0,3.5,4,XL,Women
+Cotton On Sweater Series 325,1376000.0,3.8,5,L,Men
+Uniqlo Shorts Series 326,1872000.0,4.4,1,XXL,Men
+Uniqlo Jacket Series 327,1744000.0,4.8,4,XXL,Men
+H&M Shorts Series 328,1072000.0,4.0,8,XL,Unisex
+Puma Sweater Series 329,848000.0,4.6,6,L,Women
+Puma Dress Series 330,640000.0,3.6,1,M,Men
+Nike T-Shirt Series 331,576000.0,3.8,2,M,Men
+Adidas T-Shirt Series 332,2128000.0,4.6,2,L,Women
+Uniqlo Sweater Series 333,1968000.0,4.2,2,XL,Men
+Adidas Hoodie Series 334,912000.0,4.3,5,XL,Men
+Uniqlo Jacket Series 335,1168000.0,4.0,1,XL,Women
+H&M Dress Series 336,2080000.0,4.6,2,M,Women
+Zara Jeans Series 337,896000.0,4.8,1,M,Men
+Nike Shorts Series 338,2192000.0,4.2,8,XXL,Women
+Nike Shorts Series 339,2128000.0,4.1,3,S,Men
+H&M Jacket Series 340,1696000.0,5.0,5,XXL,Women
+H&M Hoodie Series 341,1600000.0,3.7,2,XL,Men
+Nike Hoodie Series 342,1632000.0,5.0,2,XL,Women
+Uniqlo Jacket Series 343,272000.0,4.6,3,XXL,Women
+Nike Dress Series 344,1856000.0,4.4,3,M,Women
+H&M Sweater Series 345,608000.0,4.6,1,XL,Women
+Nike Skirt Series 346,848000.0,3.8,7,XL,Unisex
+Adidas Skirt Series 347,1600000.0,3.6,4,XL,Men
+Nike Dress Series 348,736000.0,4.9,1,XXL,Men
+Cotton On Hoodie Series 349,736000.0,4.0,3,L,Women
+H&M Jacket Series 350,1392000.0,4.5,3,L,Unisex
+Puma Shorts Series 351,304000.0,3.8,3,M,Women
+Uniqlo Jeans Series 352,368000.0,4.4,5,XXL,Women
+Uniqlo Sweater Series 353,1568000.0,4.4,2,S,Men
+H&M Jacket Series 354,2080000.0,4.6,3,XXL,Unisex
+Nike Shorts Series 355,1616000.0,4.7,3,S,Men
+H&M Jacket Series 356,1456000.0,3.9,2,XL,Men
+Nike Dress Series 357,352000.0,4.7,1,S,Unisex
+Cotton On Hoodie Series 358,2080000.0,3.8,5,M,Women
+Zara Jeans Series 359,768000.0,3.7,8,XXL,Women
+Zara T-Shirt Series 360,672000.0,4.5,4,M,Men
+H&M Jacket Series 361,1920000.0,4.8,8,M,Women
+Puma Dress Series 362,2096000.0,4.7,4,S,Men
+Nike Skirt Series 363,2176000.0,3.8,8,XXL,Unisex
+H&M Shorts Series 364,1712000.0,4.6,8,M,Men
+Adidas Dress Series 365,240000.0,4.6,6,M,Unisex
+Cotton On Dress Series 366,464000.0,4.5,4,M,Unisex
+Zara Skirt Series 367,256000.0,4.7,5,S,Women
+Cotton On Shorts Series 368,2352000.0,3.9,2,XL,Unisex
+Cotton On Hoodie Series 369,2320000.0,5.0,3,L,Men
+Zara Skirt Series 370,1040000.0,4.3,5,L,Unisex
+Puma Hoodie Series 371,256000.0,3.7,4,L,Women
+H&M Hoodie Series 372,1552000.0,4.1,8,XL,Women
+Cotton On Skirt Series 373,656000.0,4.3,8,L,Unisex
+Zara Dress Series 374,304000.0,4.2,5,XXL,Men
+Zara Jeans Series 375,576000.0,4.1,2,S,Men
+Adidas Hoodie Series 376,944000.0,4.6,8,S,Women
+Uniqlo T-Shirt Series 377,624000.0,4.1,3,M,Men
+H&M Jacket Series 378,480000.0,4.4,6,M,Men
+Adidas Jacket Series 379,432000.0,3.6,7,XL,Unisex
+Uniqlo Hoodie Series 380,1216000.0,3.7,4,XL,Unisex
+H&M Jeans Series 381,464000.0,4.5,5,S,Unisex
+H&M Skirt Series 382,1728000.0,4.5,2,S,Women
+Uniqlo Jeans Series 383,1376000.0,4.1,7,S,Women
+H&M Sweater Series 384,544000.0,3.8,8,XL,Women
+Zara Dress Series 385,800000.0,4.1,1,XXL,Unisex
+Adidas Skirt Series 386,1136000.0,3.5,8,XL,Men
+Zara Dress Series 387,1152000.0,3.8,3,M,Women
+Cotton On Shorts Series 388,256000.0,3.9,3,L,Unisex
+Adidas Jeans Series 389,2224000.0,4.0,2,XL,Unisex
+H&M Shorts Series 390,2128000.0,5.0,8,L,Unisex
+Zara Skirt Series 391,640000.0,4.8,8,M,Women
+Adidas Jeans Series 392,1392000.0,3.7,7,M,Unisex
+H&M Dress Series 393,2208000.0,4.0,1,M,Men
+Uniqlo Jacket Series 394,368000.0,3.7,5,L,Women
+Cotton On Skirt Series 395,1440000.0,4.7,1,L,Unisex
+Puma T-Shirt Series 396,1136000.0,4.0,3,S,Unisex
+Puma Sweater Series 397,1040000.0,4.4,8,M,Unisex
+H&M Jacket Series 398,1568000.0,4.1,7,L,Women
+Zara Shorts Series 399,2304000.0,4.6,6,L,Women
+Zara Jeans Series 400,976000.0,4.6,5,XL,Unisex
+Adidas T-Shirt Series 401,416000.0,4.4,4,M,Unisex
+Nike Hoodie Series 402,544000.0,4.7,5,S,Men
+Adidas Jacket Series 403,752000.0,4.4,2,S,Women
+Nike Jacket Series 404,1008000.0,3.6,7,XL,Women
+Puma Hoodie Series 405,1616000.0,4.7,7,M,Women
+Uniqlo Jeans Series 406,432000.0,4.0,6,XXL,Unisex
+Puma Shorts Series 407,448000.0,4.2,6,M,Women
+Uniqlo T-Shirt Series 408,1280000.0,4.0,4,S,Men
+Zara T-Shirt Series 409,272000.0,3.8,2,XXL,Men
+Adidas Shorts Series 410,528000.0,3.9,7,S,Men
+Adidas Shorts Series 411,1440000.0,3.6,3,XL,Unisex
+Zara Hoodie Series 412,1040000.0,4.2,1,S,Unisex
+Puma Dress Series 413,432000.0,4.8,5,M,Women
+H&M T-Shirt Series 414,1376000.0,3.8,8,M,Women
+Zara Sweater Series 415,2400000.0,4.5,2,L,Unisex
+H&M Skirt Series 416,2336000.0,4.9,5,L,Men
+Uniqlo Jacket Series 417,1760000.0,3.5,6,S,Women
+Adidas Shorts Series 418,1184000.0,3.8,6,L,Unisex
+Uniqlo Hoodie Series 419,2400000.0,4.8,8,XL,Men
+H&M Jeans Series 420,1808000.0,3.8,2,S,Unisex
+Cotton On Shorts Series 421,1344000.0,3.6,6,XXL,Men
+H&M Jeans Series 422,992000.0,3.8,4,M,Men
+Zara T-Shirt Series 423,2000000.0,3.7,3,XL,Unisex
+Zara Jeans Series 424,1680000.0,4.2,8,M,Women
+Zara Sweater Series 425,2000000.0,4.4,7,M,Men
+Cotton On Hoodie Series 426,2384000.0,3.6,5,L,Men
+H&M Hoodie Series 427,816000.0,3.8,6,XL,Women
+Puma Skirt Series 428,1952000.0,4.6,1,M,Women
+H&M Jacket Series 429,1072000.0,3.6,2,M,Men
+Cotton On Sweater Series 430,2032000.0,3.8,7,L,Unisex
+Zara Skirt Series 431,1920000.0,4.3,3,L,Women
+Uniqlo Jeans Series 432,880000.0,3.7,6,S,Women
+Puma Sweater Series 433,528000.0,5.0,6,M,Men
+Uniqlo Shorts Series 434,512000.0,3.8,3,XXL,Men
+Puma Jacket Series 435,1424000.0,3.8,1,L,Unisex
+H&M Jacket Series 436,1824000.0,4.9,8,S,Unisex
+Adidas Hoodie Series 437,1616000.0,4.4,8,L,Men
+Zara Hoodie Series 438,1920000.0,3.5,2,M,Men
+Zara Shorts Series 439,1120000.0,3.9,7,L,Men
+Cotton On Hoodie Series 440,1824000.0,3.8,4,XXL,Unisex
+Uniqlo T-Shirt Series 441,2160000.0,4.5,8,L,Women
+H&M Jeans Series 442,2048000.0,3.6,8,XXL,Women
+Zara T-Shirt Series 443,320000.0,4.1,3,XXL,Men
+Puma Dress Series 444,912000.0,4.0,5,S,Women
+Uniqlo Jeans Series 445,1200000.0,4.1,1,M,Men
+Uniqlo T-Shirt Series 446,608000.0,4.4,1,M,Men
+H&M Shorts Series 447,2128000.0,4.3,5,XL,Unisex
+Nike T-Shirt Series 448,1520000.0,3.8,6,M,Women
+Nike Shorts Series 449,304000.0,4.3,6,S,Unisex
+Zara Dress Series 450,336000.0,4.4,7,XXL,Women
+Nike Jacket Series 451,1936000.0,3.6,4,XL,Men
+Puma Sweater Series 452,1584000.0,3.6,2,M,Unisex
+Puma Skirt Series 453,272000.0,3.8,6,M,Women
+Nike T-Shirt Series 454,1232000.0,4.3,6,XXL,Women
+Uniqlo Dress Series 455,2208000.0,4.0,8,XXL,Women
+Cotton On Shorts Series 456,2176000.0,4.3,3,XL,Unisex
+Puma Dress Series 457,1184000.0,4.9,8,XXL,Women
+Puma Jeans Series 458,656000.0,4.6,6,XXL,Men
+Uniqlo Jeans Series 459,1760000.0,4.2,6,XXL,Women
+Zara Hoodie Series 460,2240000.0,4.0,3,L,Women
+H&M Dress Series 461,2240000.0,4.0,8,L,Unisex
+Cotton On Shorts Series 462,768000.0,3.6,1,S,Men
+Puma Skirt Series 463,304000.0,5.0,7,M,Unisex
+Puma Skirt Series 464,2368000.0,3.9,4,S,Unisex
+Adidas Jacket Series 465,2272000.0,4.6,2,L,Unisex
+Cotton On Dress Series 466,2000000.0,4.5,8,S,Unisex
+Uniqlo Jeans Series 467,2000000.0,4.8,2,S,Unisex
+Uniqlo Shorts Series 468,368000.0,5.0,8,XL,Women
+H&M Skirt Series 469,368000.0,4.2,4,M,Women
+Puma Dress Series 470,1456000.0,4.4,4,XXL,Women
+H&M Sweater Series 471,976000.0,4.9,6,M,Women
+Uniqlo Shorts Series 472,1216000.0,4.1,1,L,Men
+Uniqlo Skirt Series 473,1424000.0,4.2,7,XL,Unisex
+Adidas Hoodie Series 474,448000.0,4.0,2,S,Unisex
+Uniqlo Hoodie Series 475,1312000.0,4.6,3,L,Women
+Adidas Skirt Series 476,1808000.0,4.7,6,S,Unisex
+Nike Shorts Series 477,544000.0,4.2,7,M,Unisex
+Zara Sweater Series 478,1376000.0,3.9,8,L,Unisex
+Puma Sweater Series 479,624000.0,4.6,3,M,Women
+Uniqlo Shorts Series 480,1024000.0,4.6,6,XL,Men
+Zara Jacket Series 481,2176000.0,4.5,4,M,Men
+Cotton On T-Shirt Series 482,1968000.0,4.7,7,L,Men
+Nike Hoodie Series 483,1104000.0,3.8,2,S,Unisex
+Nike Jeans Series 484,1440000.0,3.5,1,XL,Unisex
+Puma T-Shirt Series 485,800000.0,4.6,1,L,Unisex
+Uniqlo Skirt Series 486,848000.0,4.6,4,XXL,Men
+Uniqlo Hoodie Series 487,1600000.0,4.5,5,XXL,Unisex
+Puma Jeans Series 488,1024000.0,4.9,1,XL,Women
+Nike Hoodie Series 489,640000.0,3.9,6,L,Women
+Adidas Shorts Series 490,1680000.0,4.1,1,L,Unisex
+H&M Sweater Series 491,1920000.0,4.9,7,L,Women
+Nike Jeans Series 492,1296000.0,4.5,3,XXL,Women
+Cotton On Shorts Series 493,352000.0,4.8,3,XL,Men
+Uniqlo T-Shirt Series 494,592000.0,3.7,5,L,Women
+Zara Jeans Series 495,1680000.0,4.6,7,XXL,Women
+Cotton On Shorts Series 496,928000.0,4.8,7,L,Men
+H&M Hoodie Series 497,480000.0,4.1,6,M,Unisex
+Puma Jacket Series 498,2256000.0,4.9,7,L,Women
+Puma Jeans Series 499,656000.0,4.8,5,M,Men
+Adidas T-Shirt Series 500,1792000.0,4.5,2,S,Unisex
+H&M Dress Series 501,1008000.0,4.7,1,XL,Men
+Uniqlo Skirt Series 502,2080000.0,4.4,1,XL,Women
+H&M T-Shirt Series 503,1120000.0,4.7,2,L,Women
+H&M Hoodie Series 504,592000.0,4.1,6,L,Unisex
+Nike Jacket Series 505,1472000.0,4.8,4,S,Men
+Uniqlo Jacket Series 506,2064000.0,4.3,8,S,Women
+Cotton On Skirt Series 507,1088000.0,4.8,3,XXL,Women
+Adidas Hoodie Series 508,736000.0,4.0,7,M,Unisex
+Zara Sweater Series 509,1104000.0,4.6,1,L,Women
+Cotton On Shorts Series 510,1504000.0,3.6,1,M,Women
+Adidas Shorts Series 511,2304000.0,4.8,3,L,Women
+H&M Shorts Series 512,1600000.0,3.9,5,XL,Women
+Uniqlo Jacket Series 513,2192000.0,3.6,5,XL,Men
+Zara Jeans Series 514,1280000.0,4.9,5,M,Women
+Zara Dress Series 515,1312000.0,4.3,5,XXL,Unisex
+Adidas Dress Series 516,352000.0,5.0,8,XXL,Unisex
+Nike Skirt Series 517,1024000.0,4.3,3,M,Women
+Nike Hoodie Series 518,1520000.0,3.9,2,M,Women
+H&M T-Shirt Series 519,1328000.0,3.5,6,XXL,Men
+Uniqlo T-Shirt Series 520,784000.0,3.6,2,M,Women
+Zara Sweater Series 521,832000.0,3.7,5,S,Men
+Nike Dress Series 522,656000.0,4.8,5,XL,Men
+Adidas Skirt Series 523,1200000.0,4.1,7,XL,Unisex
+Uniqlo Hoodie Series 524,464000.0,4.2,2,L,Unisex
+Uniqlo Sweater Series 525,1712000.0,4.0,3,XXL,Men
+Zara T-Shirt Series 526,2400000.0,3.7,7,XXL,Unisex
+Nike T-Shirt Series 527,1840000.0,4.0,6,L,Unisex
+Nike Jacket Series 528,1664000.0,5.0,8,XL,Unisex
+H&M Jacket Series 529,2400000.0,4.9,3,S,Men
+Nike T-Shirt Series 530,1200000.0,5.0,1,XL,Men
+Uniqlo Jeans Series 531,912000.0,3.5,2,L,Men
+Uniqlo Jeans Series 532,992000.0,3.9,4,L,Men
+Puma T-Shirt Series 533,896000.0,4.1,1,S,Women
+Cotton On Hoodie Series 534,784000.0,4.5,4,L,Women
+H&M Dress Series 535,896000.0,3.7,7,M,Unisex
+Cotton On Dress Series 536,1984000.0,5.0,4,L,Unisex
+Nike Jeans Series 537,672000.0,3.7,6,L,Unisex
+Nike Jacket Series 538,2128000.0,4.1,3,XL,Women
+Puma Dress Series 539,816000.0,4.6,1,XL,Men
+Cotton On Hoodie Series 540,1504000.0,4.9,2,M,Men
+H&M Sweater Series 541,1424000.0,3.5,1,M,Unisex
+Puma Jacket Series 542,1952000.0,4.8,6,XXL,Unisex
+Puma Sweater Series 543,384000.0,3.6,6,M,Women
+Zara Jeans Series 544,976000.0,4.2,8,XL,Unisex
+H&M T-Shirt Series 545,2256000.0,3.7,5,L,Women
+Puma T-Shirt Series 546,2016000.0,4.8,5,S,Men
+Nike T-Shirt Series 547,1760000.0,3.9,5,XXL,Women
+Puma Jacket Series 548,544000.0,3.8,2,S,Men
+Adidas Sweater Series 549,400000.0,3.8,7,L,Unisex
+H&M Jacket Series 550,1168000.0,4.2,3,S,Men
+H&M Dress Series 551,1232000.0,4.5,2,XL,Men
+H&M Jeans Series 552,352000.0,4.2,5,XL,Women
+Adidas T-Shirt Series 553,672000.0,4.5,4,M,Unisex
+H&M Dress Series 554,528000.0,4.1,8,XXL,Women
+H&M Dress Series 555,432000.0,3.7,5,S,Unisex
+Uniqlo Sweater Series 556,1984000.0,4.8,4,L,Women
+Cotton On Jeans Series 557,2400000.0,3.9,4,L,Unisex
+Puma Shorts Series 558,992000.0,3.5,4,S,Unisex
+Uniqlo Dress Series 559,2384000.0,4.3,8,S,Women
+H&M Hoodie Series 560,2368000.0,4.3,6,S,Unisex
+Uniqlo Skirt Series 561,1152000.0,4.4,8,L,Unisex
+Zara T-Shirt Series 562,1664000.0,4.8,4,XL,Unisex
+Zara Jeans Series 563,352000.0,3.9,8,L,Men
+Puma Jeans Series 564,544000.0,5.0,3,M,Unisex
+H&M Dress Series 565,736000.0,3.6,6,XL,Unisex
+Zara Jeans Series 566,1520000.0,4.5,2,XXL,Unisex
+H&M Shorts Series 567,2032000.0,4.8,8,XL,Women
+Puma Shorts Series 568,1968000.0,4.7,4,M,Unisex
+Zara Skirt Series 569,2336000.0,4.3,1,S,Unisex
+H&M Jacket Series 570,2016000.0,4.2,8,XL,Men
+Adidas Hoodie Series 571,1264000.0,3.7,8,M,Men
+Nike Shorts Series 572,2144000.0,3.5,6,M,Men
+Zara Jacket Series 573,768000.0,4.8,2,XL,Unisex
+Cotton On Shorts Series 574,976000.0,3.8,8,S,Unisex
+Adidas T-Shirt Series 575,1712000.0,4.1,7,M,Men
+Adidas Skirt Series 576,240000.0,4.6,2,M,Women
+Nike Skirt Series 577,1360000.0,4.8,1,S,Women
+Adidas Skirt Series 578,1536000.0,3.6,6,XL,Men
+Zara Dress Series 579,1984000.0,4.7,8,XL,Women
+H&M Jeans Series 580,2240000.0,4.6,6,M,Unisex
+Nike Skirt Series 581,2288000.0,4.8,4,XL,Women
+Nike Shorts Series 582,704000.0,4.6,8,XXL,Women
+Adidas Jeans Series 583,704000.0,4.8,3,XL,Men
+Cotton On Skirt Series 584,2240000.0,3.5,3,L,Unisex
+Uniqlo Jeans Series 585,576000.0,5.0,1,M,Men
+Uniqlo Skirt Series 586,1920000.0,4.4,8,M,Women
+H&M Jeans Series 587,2000000.0,4.0,3,L,Women
+Zara Jeans Series 588,2352000.0,4.1,4,XXL,Unisex
+Cotton On Jeans Series 589,1104000.0,4.7,2,S,Women
+Cotton On Sweater Series 590,464000.0,3.5,7,XL,Men
+Adidas Sweater Series 591,1712000.0,4.0,2,XL,Women
+Uniqlo Shorts Series 592,1536000.0,4.6,6,XXL,Women
+Cotton On Hoodie Series 593,2144000.0,3.7,8,L,Unisex
+Adidas Jacket Series 594,2304000.0,4.1,6,M,Women
+Zara Jacket Series 595,1936000.0,4.6,2,M,Men
+Nike Hoodie Series 596,944000.0,4.0,1,XL,Women
+Uniqlo Jacket Series 597,1200000.0,3.9,1,M,Unisex
+Zara T-Shirt Series 598,1760000.0,4.4,5,XL,Unisex
+Adidas Shorts Series 599,688000.0,4.8,2,XXL,Unisex
+Cotton On Skirt Series 600,1136000.0,4.9,2,XXL,Men
+Zara Shorts Series 601,2304000.0,3.8,2,M,Women
+Uniqlo Dress Series 602,816000.0,3.9,2,S,Women
+Adidas Sweater Series 603,1856000.0,3.7,4,M,Unisex
+H&M Dress Series 604,1696000.0,4.2,3,L,Women
+H&M Sweater Series 605,1056000.0,4.2,2,XXL,Men
+Uniqlo Hoodie Series 606,1120000.0,4.9,3,XXL,Unisex
+Cotton On Jeans Series 607,2368000.0,3.9,7,L,Women
+Uniqlo Dress Series 608,1664000.0,3.8,6,XXL,Women
+Zara Hoodie Series 609,1872000.0,4.1,6,L,Women
+Puma Hoodie Series 610,2032000.0,3.6,8,L,Women
+Uniqlo T-Shirt Series 611,896000.0,3.6,2,S,Women
+Puma T-Shirt Series 612,2032000.0,3.7,8,XL,Women
+Adidas Dress Series 613,2224000.0,3.9,4,S,Women
+Zara Jeans Series 614,2336000.0,3.5,5,S,Women
+H&M Jacket Series 615,336000.0,3.5,4,S,Men
+Zara Hoodie Series 616,2096000.0,3.5,2,XL,Unisex
+Uniqlo T-Shirt Series 617,2368000.0,3.6,8,S,Women
+Uniqlo T-Shirt Series 618,1680000.0,4.3,8,S,Men
+Puma Skirt Series 619,880000.0,4.1,7,XL,Men
+Adidas Jeans Series 620,2304000.0,3.5,4,M,Women
+H&M Dress Series 621,352000.0,3.5,3,XXL,Women
+Zara Jeans Series 622,1568000.0,4.3,1,S,Women
+Adidas Hoodie Series 623,1344000.0,4.9,2,S,Women
+Adidas Sweater Series 624,736000.0,4.3,3,L,Women
+H&M Skirt Series 625,656000.0,5.0,3,XXL,Men
+Adidas Sweater Series 626,1360000.0,4.9,7,L,Women
+Puma T-Shirt Series 627,2384000.0,3.5,8,L,Men
+Uniqlo Dress Series 628,992000.0,3.8,8,XL,Men
+Uniqlo Hoodie Series 629,592000.0,3.7,8,M,Women
+Nike Jeans Series 630,1536000.0,4.2,3,XXL,Women
+Cotton On Hoodie Series 631,288000.0,4.1,3,XXL,Unisex
+H&M T-Shirt Series 632,2352000.0,4.2,5,XL,Unisex
+Cotton On Hoodie Series 633,912000.0,3.8,2,L,Women
+Cotton On Sweater Series 634,560000.0,3.7,6,XL,Women
+Nike Sweater Series 635,288000.0,3.6,4,S,Unisex
+Puma Jeans Series 636,448000.0,4.6,3,XL,Men
+Zara Jeans Series 637,928000.0,4.2,6,S,Women
+Cotton On Jeans Series 638,2096000.0,4.6,5,M,Unisex
+Adidas Dress Series 639,304000.0,4.3,4,S,Unisex
+Zara Shorts Series 640,2160000.0,3.6,1,L,Men
+H&M Jacket Series 641,1040000.0,4.4,5,XL,Women
+Cotton On T-Shirt Series 642,1424000.0,4.5,1,XL,Unisex
+Zara Shorts Series 643,2272000.0,3.9,3,XXL,Men
+Puma Jacket Series 644,1424000.0,3.8,7,M,Unisex
+Cotton On Hoodie Series 645,928000.0,4.1,5,XXL,Unisex
+Nike Dress Series 646,864000.0,3.9,2,L,Men
+Puma Shorts Series 647,928000.0,4.6,3,S,Men
+H&M Skirt Series 648,1568000.0,3.6,2,M,Women
+Uniqlo Dress Series 649,1040000.0,4.7,4,L,Men
+Adidas Skirt Series 650,960000.0,4.6,7,L,Men
+Puma Sweater Series 651,1568000.0,4.0,2,L,Unisex
+Adidas T-Shirt Series 652,1664000.0,4.2,4,S,Unisex
+Nike Sweater Series 653,1824000.0,4.8,6,L,Unisex
+Puma Hoodie Series 654,1040000.0,4.9,1,XXL,Men
+Nike Jeans Series 655,2144000.0,3.5,6,M,Men
+Zara Skirt Series 656,320000.0,4.9,2,XXL,Women
+Cotton On Jacket Series 657,1056000.0,4.9,3,XXL,Women
+Zara Skirt Series 658,1712000.0,3.9,4,XXL,Men
+Zara Sweater Series 659,2400000.0,3.9,2,M,Men
+Cotton On Sweater Series 660,2256000.0,4.7,1,M,Men
+Zara Hoodie Series 661,1920000.0,4.1,6,L,Unisex
+Puma Skirt Series 662,304000.0,4.0,7,XL,Men
+Adidas Hoodie Series 663,2352000.0,4.3,6,S,Unisex
+H&M Skirt Series 664,400000.0,4.6,8,XL,Men
+Puma Shorts Series 665,2192000.0,4.8,2,XL,Unisex
+Zara Jeans Series 666,2368000.0,4.1,6,XL,Unisex
+Nike Jeans Series 667,1440000.0,4.1,7,M,Unisex
+Puma Shorts Series 668,2064000.0,4.7,6,L,Unisex
+Puma Jeans Series 669,240000.0,4.1,4,M,Unisex
+Zara Skirt Series 670,256000.0,3.7,1,S,Women
+Adidas Jacket Series 671,1968000.0,4.4,2,XL,Men
+Adidas Skirt Series 672,1056000.0,3.7,4,M,Men
+Uniqlo T-Shirt Series 673,480000.0,4.8,5,L,Women
+H&M T-Shirt Series 674,1904000.0,4.9,6,XXL,Men
+Zara Dress Series 675,2048000.0,4.5,3,M,Women
+Zara Sweater Series 676,416000.0,4.9,4,XL,Unisex
+H&M Hoodie Series 677,688000.0,4.7,3,L,Unisex
+H&M Jeans Series 678,2336000.0,4.3,6,L,Women
+H&M Hoodie Series 679,2368000.0,4.5,6,L,Men
+Puma Shorts Series 680,240000.0,3.8,8,L,Unisex
+Nike Jacket Series 681,976000.0,3.9,3,XXL,Men
+Puma T-Shirt Series 682,1792000.0,4.4,8,S,Women
+H&M Sweater Series 683,1168000.0,3.9,8,XXL,Men
+Nike Jacket Series 684,736000.0,5.0,1,S,Unisex
+H&M Jeans Series 685,240000.0,3.6,6,XL,Women
+Adidas Sweater Series 686,1488000.0,4.8,8,L,Unisex
+Zara Shorts Series 687,1248000.0,4.9,7,XL,Men
+Uniqlo Shorts Series 688,1520000.0,4.2,8,XXL,Men
+Nike Jeans Series 689,1280000.0,4.7,7,XXL,Women
+Adidas T-Shirt Series 690,1152000.0,3.8,5,S,Men
+Zara Sweater Series 691,1184000.0,4.9,5,S,Men
+Zara Hoodie Series 692,480000.0,3.9,1,M,Men
+Uniqlo Jeans Series 693,736000.0,4.7,6,M,Men
+H&M T-Shirt Series 694,1968000.0,3.8,3,L,Men
+Cotton On Skirt Series 695,1824000.0,4.0,7,M,Unisex
+Zara Hoodie Series 696,1696000.0,4.1,4,M,Men
+Puma Jacket Series 697,2192000.0,3.8,6,L,Men
+Puma T-Shirt Series 698,864000.0,3.6,1,M,Unisex
+Nike Hoodie Series 699,688000.0,3.7,1,L,Men
+H&M T-Shirt Series 700,1600000.0,4.5,2,S,Men
+Puma Sweater Series 701,528000.0,3.9,4,L,Men
+Puma T-Shirt Series 702,352000.0,4.8,1,L,Men
+Uniqlo Jeans Series 703,1040000.0,3.9,1,XXL,Unisex
+Cotton On Jacket Series 704,1888000.0,4.4,3,S,Men
+Uniqlo Sweater Series 705,1936000.0,4.1,8,S,Unisex
+Nike Jacket Series 706,2032000.0,4.7,8,S,Women
+Cotton On Hoodie Series 707,288000.0,4.5,7,XXL,Men
+Adidas Skirt Series 708,656000.0,3.8,7,XL,Unisex
+Nike Hoodie Series 709,656000.0,4.5,5,L,Unisex
+Cotton On Jeans Series 710,576000.0,3.6,6,S,Women
+H&M Jeans Series 711,368000.0,4.3,6,L,Unisex
+Zara Jacket Series 712,1424000.0,3.7,5,XXL,Unisex
+Puma Shorts Series 713,1552000.0,3.7,7,L,Unisex
+Nike Jeans Series 714,2016000.0,4.6,4,XXL,Men
+Nike Shorts Series 715,240000.0,3.7,2,M,Unisex
+Uniqlo Dress Series 716,528000.0,4.6,1,L,Unisex
+Nike Jacket Series 717,1088000.0,4.3,7,M,Women
+Adidas Skirt Series 718,992000.0,5.0,2,M,Unisex
+Uniqlo T-Shirt Series 719,1664000.0,4.4,1,S,Women
+H&M Sweater Series 720,1344000.0,4.3,8,L,Women
+Adidas Shorts Series 721,1552000.0,4.7,7,XL,Men
+Adidas T-Shirt Series 722,976000.0,4.0,7,XXL,Unisex
+Uniqlo Shorts Series 723,1008000.0,4.1,7,S,Unisex
+Uniqlo Jeans Series 724,2240000.0,3.6,2,L,Women
+Puma Dress Series 725,592000.0,4.9,3,XL,Unisex
+Cotton On Sweater Series 726,1696000.0,4.1,5,S,Unisex
+Adidas T-Shirt Series 727,800000.0,3.5,5,M,Unisex
+Nike Hoodie Series 728,2112000.0,4.8,2,XL,Men
+Puma Jacket Series 729,1328000.0,3.6,4,L,Unisex
+H&M Hoodie Series 730,1104000.0,4.6,3,XXL,Women
+Nike T-Shirt Series 731,1392000.0,5.0,4,L,Men
+Uniqlo Jeans Series 732,2064000.0,4.3,8,L,Unisex
+Uniqlo Hoodie Series 733,2384000.0,3.8,8,M,Men
+H&M Dress Series 734,1952000.0,4.4,5,L,Unisex
+Zara Jeans Series 735,1712000.0,4.5,4,XL,Men
+Uniqlo Jacket Series 736,416000.0,4.6,2,XL,Unisex
+H&M Jacket Series 737,656000.0,4.2,4,XXL,Unisex
+Cotton On Skirt Series 738,2144000.0,4.8,6,S,Men
+Nike Sweater Series 739,2320000.0,4.6,7,S,Men
+Nike T-Shirt Series 740,2224000.0,3.9,4,XL,Men
+Uniqlo Sweater Series 741,1968000.0,4.3,1,XXL,Unisex
+Puma Dress Series 742,1728000.0,4.3,1,XXL,Unisex
+Cotton On Shorts Series 743,256000.0,4.5,8,M,Men
+Nike Sweater Series 744,1344000.0,4.7,1,L,Men
+Uniqlo Dress Series 745,1952000.0,3.7,6,M,Men
+Puma Shorts Series 746,1376000.0,4.7,5,XXL,Women
+Adidas Hoodie Series 747,1152000.0,3.6,8,M,Unisex
+Puma Jeans Series 748,1440000.0,3.8,4,XXL,Unisex
+Adidas Dress Series 749,2384000.0,4.5,8,L,Women
+Uniqlo Jeans Series 750,1168000.0,3.9,1,L,Women
+Zara Dress Series 751,720000.0,3.8,4,XXL,Women
+Nike Jeans Series 752,656000.0,4.4,8,XXL,Unisex
+Uniqlo Jacket Series 753,1760000.0,4.7,7,S,Women
+Cotton On Skirt Series 754,2320000.0,3.9,2,M,Unisex
+Adidas T-Shirt Series 755,944000.0,4.4,1,XXL,Unisex
+Uniqlo Shorts Series 756,1728000.0,4.5,5,L,Men
+Puma Skirt Series 757,1136000.0,4.9,2,L,Unisex
+Adidas Skirt Series 758,1200000.0,3.8,6,L,Unisex
+Puma T-Shirt Series 759,1920000.0,3.8,4,XL,Women
+Cotton On Jeans Series 760,2224000.0,4.2,4,S,Women
+Zara Jacket Series 761,848000.0,4.1,3,S,Women
+Puma Jeans Series 762,1648000.0,4.6,6,XXL,Women
+Nike Sweater Series 763,2096000.0,4.9,8,M,Unisex
+Puma Jacket Series 764,400000.0,4.7,6,M,Unisex
+H&M Sweater Series 765,2128000.0,4.4,4,XXL,Unisex
+Puma Jacket Series 766,1792000.0,4.7,1,S,Women
+Zara Hoodie Series 767,1696000.0,4.0,4,XXL,Unisex
+Zara Hoodie Series 768,672000.0,3.8,2,S,Men
+Nike T-Shirt Series 769,1312000.0,4.6,7,L,Women
+Nike Hoodie Series 770,1968000.0,3.8,3,XL,Unisex
+Adidas Jeans Series 771,1840000.0,3.8,2,S,Women
+Zara Skirt Series 772,784000.0,3.7,6,XXL,Men
+Adidas Hoodie Series 773,1008000.0,4.1,2,M,Unisex
+Cotton On T-Shirt Series 774,1792000.0,4.4,8,XL,Unisex
+H&M Sweater Series 775,1632000.0,4.3,3,S,Men
+H&M T-Shirt Series 776,1856000.0,4.6,2,XL,Men
+H&M Jeans Series 777,1936000.0,4.9,3,M,Women
+Nike Skirt Series 778,1600000.0,3.6,4,S,Unisex
+Puma Shorts Series 779,480000.0,4.5,1,XL,Men
+Nike T-Shirt Series 780,2064000.0,4.0,3,XXL,Men
+Puma Jacket Series 781,704000.0,4.6,7,XL,Women
+Puma Shorts Series 782,2192000.0,4.4,7,S,Unisex
+Nike Shorts Series 783,2400000.0,4.2,5,XXL,Unisex
+Cotton On Skirt Series 784,944000.0,4.5,1,M,Men
+Puma Skirt Series 785,928000.0,4.4,3,XXL,Women
+Uniqlo Shorts Series 786,1040000.0,4.2,4,L,Men
+Adidas Dress Series 787,576000.0,4.6,3,S,Unisex
+Zara Jacket Series 788,1552000.0,4.7,8,L,Unisex
+Puma Sweater Series 789,672000.0,5.0,6,M,Men
+H&M Dress Series 790,2064000.0,3.9,2,XXL,Women
+Nike Hoodie Series 791,1760000.0,4.0,5,M,Women
+Cotton On Sweater Series 792,1936000.0,4.9,4,M,Men
+Nike Skirt Series 793,1904000.0,4.6,7,XL,Men
+Cotton On Hoodie Series 794,1712000.0,4.6,5,L,Unisex
+Puma Jeans Series 795,320000.0,4.1,1,XXL,Unisex
+Nike Skirt Series 796,544000.0,4.2,2,XL,Men
+Nike Skirt Series 797,1408000.0,3.5,1,M,Men
+Puma Dress Series 798,592000.0,4.5,6,XXL,Unisex
+H&M Dress Series 799,1088000.0,5.0,6,S,Unisex
+Uniqlo Dress Series 800,1072000.0,4.3,2,XL,Men
+H&M Sweater Series 801,2032000.0,4.4,3,L,Unisex
+Puma Shorts Series 802,272000.0,4.7,4,XL,Unisex
+Puma Shorts Series 803,2144000.0,4.4,1,L,Unisex
+Puma Dress Series 804,320000.0,4.3,6,L,Unisex
+Zara Shorts Series 805,1456000.0,4.8,3,XXL,Unisex
+Adidas Jeans Series 806,608000.0,4.3,6,S,Women
+Uniqlo Jacket Series 807,672000.0,4.5,5,M,Women
+Zara Shorts Series 808,688000.0,3.6,4,S,Unisex
+Nike Shorts Series 809,1776000.0,4.8,3,XXL,Men
+Zara Hoodie Series 810,256000.0,5.0,5,L,Unisex
+Nike Jacket Series 811,2320000.0,4.1,3,XL,Men
+Uniqlo Shorts Series 812,448000.0,4.4,5,L,Women
+Uniqlo Dress Series 813,1520000.0,4.2,1,L,Women
+Uniqlo Shorts Series 814,256000.0,3.6,5,M,Women
+Zara T-Shirt Series 815,1552000.0,4.1,2,XL,Men
+Adidas T-Shirt Series 816,544000.0,4.9,3,L,Men
+Cotton On Skirt Series 817,2048000.0,3.8,8,M,Men
+Cotton On Dress Series 818,704000.0,3.9,5,S,Unisex
+Nike Jeans Series 819,736000.0,3.7,2,L,Women
+Nike T-Shirt Series 820,1232000.0,3.7,6,XXL,Men
+Cotton On Jacket Series 821,752000.0,4.8,7,M,Women
+Adidas Hoodie Series 822,816000.0,4.1,1,XXL,Unisex
+Nike Skirt Series 823,1248000.0,3.6,7,XXL,Unisex
+Nike Shorts Series 824,608000.0,4.1,7,XL,Women
+Nike Sweater Series 825,1472000.0,4.8,2,S,Men
+Zara Sweater Series 826,848000.0,3.9,6,L,Women
+Zara Hoodie Series 827,2272000.0,3.6,4,XXL,Unisex
+Puma Jacket Series 828,1840000.0,4.7,4,L,Unisex
+Puma Shorts Series 829,1680000.0,5.0,8,M,Women
+Zara Sweater Series 830,2256000.0,4.5,3,XXL,Men
+Puma T-Shirt Series 831,544000.0,3.8,8,XL,Men
+Cotton On T-Shirt Series 832,2304000.0,3.8,1,M,Unisex
+Nike Shorts Series 833,2256000.0,3.9,6,XL,Unisex
+Nike Hoodie Series 834,880000.0,4.2,6,S,Unisex
+Puma Dress Series 835,944000.0,4.7,5,M,Women
+Puma Jeans Series 836,1488000.0,4.7,7,L,Women
+Nike Dress Series 837,1600000.0,4.1,4,XL,Women
+Cotton On Skirt Series 838,848000.0,3.8,4,XL,Women
+Uniqlo Jacket Series 839,1488000.0,4.1,5,L,Unisex
+Uniqlo Hoodie Series 840,352000.0,3.9,6,M,Unisex
+Adidas Shorts Series 841,368000.0,4.4,1,XXL,Men
+Uniqlo Jacket Series 842,1632000.0,4.3,3,S,Men
+Cotton On Dress Series 843,1984000.0,4.3,8,L,Men
+Zara Hoodie Series 844,432000.0,3.8,8,S,Unisex
+Adidas Shorts Series 845,1936000.0,4.8,8,L,Unisex
+Nike Jacket Series 846,1600000.0,4.9,3,S,Men
+H&M Sweater Series 847,2096000.0,4.6,7,S,Women
+Zara T-Shirt Series 848,1248000.0,4.6,7,L,Women
+Zara Jacket Series 849,1328000.0,4.2,8,M,Unisex
+H&M Dress Series 850,720000.0,4.9,5,S,Men
+Adidas Dress Series 851,1232000.0,4.2,3,XL,Women
+Puma Sweater Series 852,1808000.0,4.2,3,XL,Unisex
+Adidas Sweater Series 853,512000.0,4.2,3,L,Unisex
+H&M Jeans Series 854,1712000.0,4.1,1,S,Women
+Puma T-Shirt Series 855,1504000.0,3.8,5,L,Unisex
+Cotton On Hoodie Series 856,1808000.0,4.8,7,L,Unisex
+Adidas Jacket Series 857,1040000.0,5.0,5,M,Women
+Puma Hoodie Series 858,784000.0,3.7,8,XL,Men
+Cotton On Hoodie Series 859,1216000.0,4.2,8,XXL,Men
+Zara T-Shirt Series 860,832000.0,4.1,8,S,Unisex
+Puma T-Shirt Series 861,1808000.0,3.7,8,M,Men
+Nike Sweater Series 862,1472000.0,3.6,2,L,Unisex
+Zara Shorts Series 863,1280000.0,4.5,6,XL,Men
+Uniqlo Sweater Series 864,960000.0,3.5,6,S,Women
+Nike Jeans Series 865,2128000.0,4.7,1,XL,Women
+Uniqlo T-Shirt Series 866,288000.0,4.7,2,XXL,Men
+Puma Sweater Series 867,2304000.0,4.6,5,L,Women
