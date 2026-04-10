@@ -9,5 +9,8 @@ Teknologi :
 - SQLite / Excel spreadsheet & Google Cloud API – penyimpanan data sederhana
 - Jupyter Notebook / VSCode – dokumentasi & testing
 
+## 💡 Use Case
+Pipeline ini dapat digunakan sebagai tahap awal dalam membangun model Machine Learning untuk memastikan kualitas data yang optimal.
+
 
 
